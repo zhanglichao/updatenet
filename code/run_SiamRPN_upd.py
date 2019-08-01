@@ -1,8 +1,4 @@
 # --------------------------------------------------------
-# DaSiamRPN
-# Licensed under The MIT License
-# Written by Qiang Wang (wangqiang2015 at ia.ac.cn)
-# --------------------------------------------------------
 import numpy as np
 from torch.autograd import Variable
 import torch.nn.functional as F
