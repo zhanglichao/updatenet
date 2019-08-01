@@ -15,9 +15,13 @@ This project is to replace the handcrafted update function with a method which l
 
 
 [1] Fully-convolutional siamese networks for object tracking.
-Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H. S. Torr.
-In ECCV workshop 2016.
+
+    Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H. S. Torr.
+
+    In ECCV workshop 2016.
 
 [2] Distractor-aware siamese networks for visual object tracking.
-Zheng Zhu, Qiang Wang, Bo Li, Wei Wu, Junjie Yan, Weiming Hu.
-In ECCV 2018.
+
+    Zheng Zhu, Qiang Wang, Bo Li, Wei Wu, Junjie Yan, Weiming Hu.
+
+    In ECCV 2018.
