@@ -13,11 +13,11 @@ In general, in Siamese trackers the template is linearly combined with the accum
 
 ## Pre-trained models
 
-The pre-trained models ([VOT2016], [VOT2018], [TrackingNet]) are available to download.
+The pre-trained [models](https://github.com/zhanglichao/updatenet/tree/master/models) are available to download.
 
 ## Raw results
 
-[VOT2016], [VOT2018], [TrackingNet]
+The [results](https://drive.google.com/drive/folders/1GhYh-R5u5paLH2Qw1MwSUW4M_kGg0Z82?usp=sharing) are available for comparison.
 
 [1] Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H. S. Torr.
     Fully-convolutional siamese networks for object tracking.
