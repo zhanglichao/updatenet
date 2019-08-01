@@ -11,17 +11,18 @@ This project is to replace the handcrafted update function with a method which l
 </p>
 
 
+## Pre-trained models
 
+The pre-trained models ([VOT2016], [VOT2018], [TrackingNet]) are available to download.
 
+## Raw results
+
+[VOT2016], [VOT2018], [TrackingNet]
 
 [1] Fully-convolutional siamese networks for object tracking.
-
     Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H. S. Torr.
-
     In ECCV workshop 2016.
 
 [2] Distractor-aware siamese networks for visual object tracking.
-
     Zheng Zhu, Qiang Wang, Bo Li, Wei Wu, Junjie Yan, Weiming Hu.
-
     In ECCV 2018.
