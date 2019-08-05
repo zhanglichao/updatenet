@@ -1,4 +1,4 @@
-## Learning the Model Update for Siamese Trackers [[paper]](https://arxiv.org/pdf/1806.01013.pdf)
+## Learning the Model Update for Siamese Trackers [[paper]](https://arxiv.org/pdf/1908.00855.pdf)
 
 ## Instructions
 In general, in Siamese trackers the template is linearly combined with the accumulated template from the previous frame, resulting in an exponential decay of information over time. While such an approach to updating has led to improved results, its simplicity limits the potential gain likely to be obtained by learning to update. Therefore, in this paper we propose to replace the handcrafted update function with a method which learns to update. We use a convolutional neural network, called UpdateNet, which given the initial template, the accumulated template and the template of the current frame aims to estimate the optimal template for the next frame. The UpdateNet is compact and can easily be integrated into existing Siamese trackers, e.g. SiamFC [1] and DaSiamRPN [2].
