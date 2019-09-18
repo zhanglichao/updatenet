@@ -10,9 +10,9 @@ In general, in Siamese trackers the template is linearly combined with the accum
   <img width="80%" height='80%'src="figs/fig3_reb.png" />
 </p>
 
-## Pre-trained models
+## Framework
 
-The project is done in PyTorch framework.
+The released project is done in PyTorch framework.
 
 ## Pre-trained models
 
