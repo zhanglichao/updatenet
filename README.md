@@ -1,11 +1,11 @@
-## Learning the Model Update for Siamese Trackers [[paper]](https://arxiv.org/pdf/1908.00855.pdf)
+# Learning the Model Update for Siamese Trackers
 
 The paper will appear in ICCV 2019. 
 
 [arXiv](https://arxiv.org/pdf/1908.00855.pdf), [ICCV2019_openaccess](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_the_Model_Update_for_Siamese_Trackers_ICCV_2019_paper.pdf), [supplementary material](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zhang_Learning_the_Model_ICCV_2019_supplemental.pdf), [poster](https://github.com/zhanglichao/updatenet/blob/master/poster/lichaoICCV19updateposter.pdf).
 
 ## Citation
-Please cite our paper if you are inspired by the idea.
+Please cite our paper if you are inspired by this idea.
 
 ```
 @InProceedings{Zhang_2019_ICCV,
