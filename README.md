@@ -1,5 +1,18 @@
 ## Learning the Model Update for Siamese Trackers [[paper]](https://arxiv.org/pdf/1908.00855.pdf)
 
+The paper will appear in ICCV 2019. [arXiv](), [ICCV 2019 open access](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_the_Model_Update_for_Siamese_Trackers_ICCV_2019_paper.pdf), [supplementary material](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zhang_Learning_the_Model_ICCV_2019_supplemental.pdf) and the [poster] can be found here.
+
+## Citation
+Please cite our paper if you are inspired by the idea.
+
+@InProceedings{Zhang_2019_ICCV,
+author = {Zhang, Lichao and Gonzalez-Garcia, Abel and Weijer, Joost van de and Danelljan, Martin and Khan, Fahad Shahbaz},
+title = {Learning the Model Update for Siamese Trackers},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+} 
+
 ## Instructions
 In general, in Siamese trackers the template is linearly combined with the accumulated template from the previous frame, resulting in an exponential decay of information over time. While such an approach to updating has led to improved results, its simplicity limits the potential gain likely to be obtained by learning to update. Therefore, in this paper we propose to replace the handcrafted update function with a method which learns to update. We use a convolutional neural network, called UpdateNet, which given the initial template, the accumulated template and the template of the current frame aims to estimate the optimal template for the next frame. The UpdateNet is compact and can easily be integrated into existing Siamese trackers, e.g. SiamFC [1] and DaSiamRPN [2].
 
